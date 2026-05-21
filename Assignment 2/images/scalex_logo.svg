@@ -1,0 +1,14 @@
+<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo mark -->
+  <path d="M40 75 L85 30 L85 55 L145 55 L105 95 L40 95 Z" fill="white"/>
+  <path d="M95 30 L160 30 L160 70 L135 95 L135 65 L75 65 Z" fill="white"/>
+
+  <!-- Text -->
+  <text x="185" y="78"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="52"
+        font-weight="700"
+        fill="white">
+    ScaleX
+  </text>
+</svg>
